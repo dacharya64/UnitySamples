@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 151dcde2fa3b917459ab9f18b456c31e
+timeCreated: 1506555437
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Fantasy Castle_MeshPart0
+    100002: Fantasy Castle_MeshPart1
+    100004: Fantasy Castle_MeshPart10
+    100006: Fantasy Castle_MeshPart11
+    100008: Fantasy Castle_MeshPart12
+    100010: Fantasy Castle_MeshPart13
+    100012: Fantasy Castle_MeshPart14
+    100014: Fantasy Castle_MeshPart15
+    100016: Fantasy Castle_MeshPart16
+    100018: Fantasy Castle_MeshPart17
+    100020: Fantasy Castle_MeshPart18
+    100022: Fantasy Castle_MeshPart19
+    100024: Fantasy Castle_MeshPart2
+    100026: Fantasy Castle_MeshPart20
+    100028: Fantasy Castle_MeshPart21
+    100030: Fantasy Castle_MeshPart22
+    100032: Fantasy Castle_MeshPart23
+    100034: Fantasy Castle_MeshPart24
+    100036: Fantasy Castle_MeshPart25
+    100038: Fantasy Castle_MeshPart26
+    100040: Fantasy Castle_MeshPart27
+    100042: Fantasy Castle_MeshPart28
+    100044: Fantasy Castle_MeshPart29
+    100046: Fantasy Castle_MeshPart3
+    100048: Fantasy Castle_MeshPart30
+    100050: Fantasy Castle_MeshPart31
+    100052: Fantasy Castle_MeshPart32
+    100054: Fantasy Castle_MeshPart33
+    100056: Fantasy Castle_MeshPart34
+    100058: Fantasy Castle_MeshPart35
+    100060: Fantasy Castle_MeshPart36
+    100062: Fantasy Castle_MeshPart37
+    100064: Fantasy Castle_MeshPart38
+    100066: Fantasy Castle_MeshPart39
+    100068: Fantasy Castle_MeshPart4
+    100070: Fantasy Castle_MeshPart40
+    100072: Fantasy Castle_MeshPart41
+    100074: Fantasy Castle_MeshPart42
+    100076: Fantasy Castle_MeshPart43
+    100078: Fantasy Castle_MeshPart44
+    100080: Fantasy Castle_MeshPart45
+    100082: Fantasy Castle_MeshPart46
+    100084: Fantasy Castle_MeshPart47
+    100086: Fantasy Castle_MeshPart48
+    100088: Fantasy Castle_MeshPart49
+    100090: Fantasy Castle_MeshPart5
+    100092: Fantasy Castle_MeshPart50
+    100094: Fantasy Castle_MeshPart51
+    100096: Fantasy Castle_MeshPart52
+    100098: Fantasy Castle_MeshPart53
+    100100: Fantasy Castle_MeshPart54
+    100102: Fantasy Castle_MeshPart55
+    100104: Fantasy Castle_MeshPart56
+    100106: Fantasy Castle_MeshPart57
+    100108: Fantasy Castle_MeshPart58
+    100110: Fantasy Castle_MeshPart59
+    100112: Fantasy Castle_MeshPart6
+    100114: Fantasy Castle_MeshPart60
+    100116: Fantasy Castle_MeshPart61
+    100118: Fantasy Castle_MeshPart7
+    100120: Fantasy Castle_MeshPart8
+    100122: Fantasy Castle_MeshPart9
+    100124: //RootNode
+    400000: Fantasy Castle_MeshPart0
+    400002: Fantasy Castle_MeshPart1
+    400004: Fantasy Castle_MeshPart10
+    400006: Fantasy Castle_MeshPart11
+    400008: Fantasy Castle_MeshPart12
+    400010: Fantasy Castle_MeshPart13
+    400012: Fantasy Castle_MeshPart14
+    400014: Fantasy Castle_MeshPart15
+    400016: Fantasy Castle_MeshPart16
+    400018: Fantasy Castle_MeshPart17
+    400020: Fantasy Castle_MeshPart18
+    400022: Fantasy Castle_MeshPart19
+    400024: Fantasy Castle_MeshPart2
+    400026: Fantasy Castle_MeshPart20
+    400028: Fantasy Castle_MeshPart21
+    400030: Fantasy Castle_MeshPart22
+    400032: Fantasy Castle_MeshPart23
+    400034: Fantasy Castle_MeshPart24
+    400036: Fantasy Castle_MeshPart25
+    400038: Fantasy Castle_MeshPart26
+    400040: Fantasy Castle_MeshPart27
+    400042: Fantasy Castle_MeshPart28
+    400044: Fantasy Castle_MeshPart29
+    400046: Fantasy Castle_MeshPart3
+    400048: Fantasy Castle_MeshPart30
+    400050: Fantasy Castle_MeshPart31
+    400052: Fantasy Castle_MeshPart32
+    400054: Fantasy Castle_MeshPart33
+    400056: Fantasy Castle_MeshPart34
+    400058: Fantasy Castle_MeshPart35
+    400060: Fantasy Castle_MeshPart36
+    400062: Fantasy Castle_MeshPart37
+    400064: Fantasy Castle_MeshPart38
+    400066: Fantasy Castle_MeshPart39
+    400068: Fantasy Castle_MeshPart4
+    400070: Fantasy Castle_MeshPart40
+    400072: Fantasy Castle_MeshPart41
+    400074: Fantasy Castle_MeshPart42
+    400076: Fantasy Castle_MeshPart43
+    400078: Fantasy Castle_MeshPart44
+    400080: Fantasy Castle_MeshPart45
+    400082: Fantasy Castle_MeshPart46
+    400084: Fantasy Castle_MeshPart47
+    400086: Fantasy Castle_MeshPart48
+    400088: Fantasy Castle_MeshPart49
+    400090: Fantasy Castle_MeshPart5
+    400092: Fantasy Castle_MeshPart50
+    400094: Fantasy Castle_MeshPart51
+    400096: Fantasy Castle_MeshPart52
+    400098: Fantasy Castle_MeshPart53
+    400100: Fantasy Castle_MeshPart54
+    400102: Fantasy Castle_MeshPart55
+    400104: Fantasy Castle_MeshPart56
+    400106: Fantasy Castle_MeshPart57
+    400108: Fantasy Castle_MeshPart58
+    400110: Fantasy Castle_MeshPart59
+    400112: Fantasy Castle_MeshPart6
+    400114: Fantasy Castle_MeshPart60
+    400116: Fantasy Castle_MeshPart61
+    400118: Fantasy Castle_MeshPart7
+    400120: Fantasy Castle_MeshPart8
+    400122: Fantasy Castle_MeshPart9
+    400124: //RootNode
+    2300000: Fantasy Castle_MeshPart0
+    2300002: Fantasy Castle_MeshPart1
+    2300004: Fantasy Castle_MeshPart10
+    2300006: Fantasy Castle_MeshPart11
+    2300008: Fantasy Castle_MeshPart12
+    2300010: Fantasy Castle_MeshPart13
+    2300012: Fantasy Castle_MeshPart14
+    2300014: Fantasy Castle_MeshPart15
+    2300016: Fantasy Castle_MeshPart16
+    2300018: Fantasy Castle_MeshPart17
+    2300020: Fantasy Castle_MeshPart18
+    2300022: Fantasy Castle_MeshPart19
+    2300024: Fantasy Castle_MeshPart2
+    2300026: Fantasy Castle_MeshPart20
+    2300028: Fantasy Castle_MeshPart21
+    2300030: Fantasy Castle_MeshPart22
+    2300032: Fantasy Castle_MeshPart23
+    2300034: Fantasy Castle_MeshPart24
+    2300036: Fantasy Castle_MeshPart25
+    2300038: Fantasy Castle_MeshPart26
+    2300040: Fantasy Castle_MeshPart27
+    2300042: Fantasy Castle_MeshPart28
+    2300044: Fantasy Castle_MeshPart29
+    2300046: Fantasy Castle_MeshPart3
+    2300048: Fantasy Castle_MeshPart30
+    2300050: Fantasy Castle_MeshPart31
+    2300052: Fantasy Castle_MeshPart32
+    2300054: Fantasy Castle_MeshPart33
+    2300056: Fantasy Castle_MeshPart34
+    2300058: Fantasy Castle_MeshPart35
+    2300060: Fantasy Castle_MeshPart36
+    2300062: Fantasy Castle_MeshPart37
+    2300064: Fantasy Castle_MeshPart38
+    2300066: Fantasy Castle_MeshPart39
+    2300068: Fantasy Castle_MeshPart4
+    2300070: Fantasy Castle_MeshPart40
+    2300072: Fantasy Castle_MeshPart41
+    2300074: Fantasy Castle_MeshPart42
+    2300076: Fantasy Castle_MeshPart43
+    2300078: Fantasy Castle_MeshPart44
+    2300080: Fantasy Castle_MeshPart45
+    2300082: Fantasy Castle_MeshPart46
+    2300084: Fantasy Castle_MeshPart47
+    2300086: Fantasy Castle_MeshPart48
+    2300088: Fantasy Castle_MeshPart49
+    2300090: Fantasy Castle_MeshPart5
+    2300092: Fantasy Castle_MeshPart50
+    2300094: Fantasy Castle_MeshPart51
+    2300096: Fantasy Castle_MeshPart52
+    2300098: Fantasy Castle_MeshPart53
+    2300100: Fantasy Castle_MeshPart54
+    2300102: Fantasy Castle_MeshPart55
+    2300104: Fantasy Castle_MeshPart56
+    2300106: Fantasy Castle_MeshPart57
+    2300108: Fantasy Castle_MeshPart58
+    2300110: Fantasy Castle_MeshPart59
+    2300112: Fantasy Castle_MeshPart6
+    2300114: Fantasy Castle_MeshPart60
+    2300116: Fantasy Castle_MeshPart61
+    2300118: Fantasy Castle_MeshPart7
+    2300120: Fantasy Castle_MeshPart8
+    2300122: Fantasy Castle_MeshPart9
+    3300000: Fantasy Castle_MeshPart0
+    3300002: Fantasy Castle_MeshPart1
+    3300004: Fantasy Castle_MeshPart10
+    3300006: Fantasy Castle_MeshPart11
+    3300008: Fantasy Castle_MeshPart12
+    3300010: Fantasy Castle_MeshPart13
+    3300012: Fantasy Castle_MeshPart14
+    3300014: Fantasy Castle_MeshPart15
+    3300016: Fantasy Castle_MeshPart16
+    3300018: Fantasy Castle_MeshPart17
+    3300020: Fantasy Castle_MeshPart18
+    3300022: Fantasy Castle_MeshPart19
+    3300024: Fantasy Castle_MeshPart2
+    3300026: Fantasy Castle_MeshPart20
+    3300028: Fantasy Castle_MeshPart21
+    3300030: Fantasy Castle_MeshPart22
+    3300032: Fantasy Castle_MeshPart23
+    3300034: Fantasy Castle_MeshPart24
+    3300036: Fantasy Castle_MeshPart25
+    3300038: Fantasy Castle_MeshPart26
+    3300040: Fantasy Castle_MeshPart27
+    3300042: Fantasy Castle_MeshPart28
+    3300044: Fantasy Castle_MeshPart29
+    3300046: Fantasy Castle_MeshPart3
+    3300048: Fantasy Castle_MeshPart30
+    3300050: Fantasy Castle_MeshPart31
+    3300052: Fantasy Castle_MeshPart32
+    3300054: Fantasy Castle_MeshPart33
+    3300056: Fantasy Castle_MeshPart34
+    3300058: Fantasy Castle_MeshPart35
+    3300060: Fantasy Castle_MeshPart36
+    3300062: Fantasy Castle_MeshPart37
+    3300064: Fantasy Castle_MeshPart38
+    3300066: Fantasy Castle_MeshPart39
+    3300068: Fantasy Castle_MeshPart4
+    3300070: Fantasy Castle_MeshPart40
+    3300072: Fantasy Castle_MeshPart41
+    3300074: Fantasy Castle_MeshPart42
+    3300076: Fantasy Castle_MeshPart43
+    3300078: Fantasy Castle_MeshPart44
+    3300080: Fantasy Castle_MeshPart45
+    3300082: Fantasy Castle_MeshPart46
+    3300084: Fantasy Castle_MeshPart47
+    3300086: Fantasy Castle_MeshPart48
+    3300088: Fantasy Castle_MeshPart49
+    3300090: Fantasy Castle_MeshPart5
+    3300092: Fantasy Castle_MeshPart50
+    3300094: Fantasy Castle_MeshPart51
+    3300096: Fantasy Castle_MeshPart52
+    3300098: Fantasy Castle_MeshPart53
+    3300100: Fantasy Castle_MeshPart54
+    3300102: Fantasy Castle_MeshPart55
+    3300104: Fantasy Castle_MeshPart56
+    3300106: Fantasy Castle_MeshPart57
+    3300108: Fantasy Castle_MeshPart58
+    3300110: Fantasy Castle_MeshPart59
+    3300112: Fantasy Castle_MeshPart6
+    3300114: Fantasy Castle_MeshPart60
+    3300116: Fantasy Castle_MeshPart61
+    3300118: Fantasy Castle_MeshPart7
+    3300120: Fantasy Castle_MeshPart8
+    3300122: Fantasy Castle_MeshPart9
+    4300000: Fantasy Castle_MeshPart0
+    4300002: Fantasy Castle_MeshPart1
+    4300004: Fantasy Castle_MeshPart2
+    4300006: Fantasy Castle_MeshPart3
+    4300008: Fantasy Castle_MeshPart4
+    4300010: Fantasy Castle_MeshPart5
+    4300012: Fantasy Castle_MeshPart6
+    4300014: Fantasy Castle_MeshPart7
+    4300016: Fantasy Castle_MeshPart8
+    4300018: Fantasy Castle_MeshPart9
+    4300020: Fantasy Castle_MeshPart10
+    4300022: Fantasy Castle_MeshPart11
+    4300024: Fantasy Castle_MeshPart12
+    4300026: Fantasy Castle_MeshPart13
+    4300028: Fantasy Castle_MeshPart14
+    4300030: Fantasy Castle_MeshPart15
+    4300032: Fantasy Castle_MeshPart16
+    4300034: Fantasy Castle_MeshPart17
+    4300036: Fantasy Castle_MeshPart18
+    4300038: Fantasy Castle_MeshPart19
+    4300040: Fantasy Castle_MeshPart20
+    4300042: Fantasy Castle_MeshPart21
+    4300044: Fantasy Castle_MeshPart22
+    4300046: Fantasy Castle_MeshPart23
+    4300048: Fantasy Castle_MeshPart24
+    4300050: Fantasy Castle_MeshPart25
+    4300052: Fantasy Castle_MeshPart26
+    4300054: Fantasy Castle_MeshPart27
+    4300056: Fantasy Castle_MeshPart28
+    4300058: Fantasy Castle_MeshPart29
+    4300060: Fantasy Castle_MeshPart30
+    4300062: Fantasy Castle_MeshPart31
+    4300064: Fantasy Castle_MeshPart32
+    4300066: Fantasy Castle_MeshPart33
+    4300068: Fantasy Castle_MeshPart34
+    4300070: Fantasy Castle_MeshPart35
+    4300072: Fantasy Castle_MeshPart36
+    4300074: Fantasy Castle_MeshPart37
+    4300076: Fantasy Castle_MeshPart38
+    4300078: Fantasy Castle_MeshPart39
+    4300080: Fantasy Castle_MeshPart40
+    4300082: Fantasy Castle_MeshPart41
+    4300084: Fantasy Castle_MeshPart42
+    4300086: Fantasy Castle_MeshPart43
+    4300088: Fantasy Castle_MeshPart44
+    4300090: Fantasy Castle_MeshPart45
+    4300092: Fantasy Castle_MeshPart46
+    4300094: Fantasy Castle_MeshPart47
+    4300096: Fantasy Castle_MeshPart48
+    4300098: Fantasy Castle_MeshPart49
+    4300100: Fantasy Castle_MeshPart50
+    4300102: Fantasy Castle_MeshPart51
+    4300104: Fantasy Castle_MeshPart52
+    4300106: Fantasy Castle_MeshPart53
+    4300108: Fantasy Castle_MeshPart54
+    4300110: Fantasy Castle_MeshPart55
+    4300112: Fantasy Castle_MeshPart56
+    4300114: Fantasy Castle_MeshPart57
+    4300116: Fantasy Castle_MeshPart58
+    4300118: Fantasy Castle_MeshPart59
+    4300120: Fantasy Castle_MeshPart60
+    4300122: Fantasy Castle_MeshPart61
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
